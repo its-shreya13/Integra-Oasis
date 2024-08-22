@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "public",
+			"path": "."
+		},
+		{
+			"name": "src",
+			"path": "../src"
+		},
+		{
+			"name": "node_modules",
+			"path": "../node_modules"
+		}
+	],
+	"settings": {}
+}
